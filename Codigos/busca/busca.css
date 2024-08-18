@@ -1,0 +1,203 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    }
+    body{
+    background-image: url(/Img/busca01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    /* header */
+    .header{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+    /* busca */
+    .busca{
+    margin-top: 50px;
+    }
+    .busca button{
+    background-color: black;
+    width: 132px;
+    height: 54px;
+    }
+    .busca a{
+    font-size: 29px;
+    text-decoration: none;
+    color: white;
+    }
+    
+    /* Inicio */
+    .inicio{
+        margin-top: 50px;
+    }
+    .inicio button{
+        background-color: black;
+        width: 132px;
+        height: 54px;
+    }
+    .inicio a{
+        font-size: 29px;
+        text-decoration: none;
+        color: white;
+    }
+    
+    /* Pedidos */
+    .pedidos{
+        margin-top: 50px;
+    }
+    .pedidos button{
+        background-color: black;
+        width: 132px;
+        height: 54px;
+    }
+    .pedidos a{
+        font-size: 29px;
+        text-decoration: none;
+        color: white;
+    }
+    
+    /* Cadastro */
+    .cadastro{
+        margin-top: 50px;
+    }
+    .cadastro button{
+        background-color: black;
+        width: 132px;
+        height: 54px;
+    }
+    .cadastro a{
+        font-size: 29px;
+        text-decoration: none;
+        color: white;
+    }
+    
+    /* contato */
+    .contato{
+        margin-top: 50px;
+    }
+    .contato button{
+        background-color: black;
+        width: 132px;
+        height: 54px;
+    }
+    .contato a{
+        font-size: 29px;
+        text-decoration: none;
+        color: white;
+    }
+    /* Quem Somos */
+    .quemsomos{
+        margin-top: 50px;
+    }
+    .quemsomos button{
+        background-color: black;
+        width: 190px;
+        height: 54px;
+    }
+    .quemsomos a{
+        font-size: 29px;
+        text-decoration: none;
+        color: white;
+    }
+    .search{
+        margin-left: 500px;
+        margin-top: 100px;
+    }
+.food{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+}
+
+.price{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.price p{
+    margin-top: -36px;
+    margin-left: 20px;
+    font-size: 29px;
+}
+.name{
+    margin-left: 0px;
+}
+.name p{
+    margin-top: -36px;
+    margin-left: 45px;
+    font-size: 29px;
+}
+
+.sprice{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.sprice p{
+    margin-top: -36px;
+    margin-left: 20px;
+    font-size: 29px;
+}
+.sname{
+    margin-left: 0px;
+}
+.sname p{
+    margin-top: -36px;
+    margin-left: 35px;
+    font-size: 29px;
+}
+
+.tprice{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.tprice p{
+    margin-top: -36px;
+    margin-left: 20px;
+    font-size: 29px;
+}
+.tname{
+    margin-left: 0px;
+}
+.tname p{
+    margin-top: -36px;
+    margin-left: 30px;
+    font-size: 29px;
+}
+
+.gprice{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.gprice p{
+    margin-top: -36px;
+    margin-left: 20px;
+    font-size: 29px;
+}
+.gname{
+    margin-left: 0px;
+}
+.gname p{
+    margin-top: -36px;
+    margin-left: 40px;
+    font-size: 29px;
+}
+.vprice{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.vprice p{
+    margin-top: -36px;
+    margin-left: 20px;
+    font-size: 29px;
+}
+.vname{
+    margin-left: 0px;
+}
+.vname p{
+    margin-top: -36px;
+    margin-left: 45px;
+    font-size: 29px;
+}
