@@ -1,0 +1,139 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    }
+    body{
+    background-image: url(/Img/cadastro01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    /* header */
+    .header{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+    /* busca */
+    .busca{
+    margin-top: 50px;
+    }
+    .busca button{
+    background-color: black;
+    width: 132px;
+    height: 54px;
+    }
+    .busca a{
+    font-size: 29px;
+    text-decoration: none;
+    color: white;
+    }
+    
+    /* Inicio */
+    .inicio{
+        margin-top: 50px;
+    }
+    .inicio button{
+        background-color: black;
+        width: 132px;
+        height: 54px;
+    }
+    .inicio a{
+        font-size: 29px;
+        text-decoration: none;
+        color: white;
+    }
+    
+    /* Pedidos */
+    .pedidos{
+        margin-top: 50px;
+    }
+    .pedidos button{
+        background-color: black;
+        width: 132px;
+        height: 54px;
+    }
+    .pedidos a{
+        font-size: 29px;
+        text-decoration: none;
+        color: white;
+    }
+    
+    /* Cadastro */
+    .cadastro{
+        margin-top: 50px;
+    }
+    .cadastro button{
+        background-color: black;
+        width: 132px;
+        height: 54px;
+    }
+    .cadastro a{
+        font-size: 29px;
+        text-decoration: none;
+        color: white;
+    }
+    
+    /* contato */
+    .contato{
+        margin-top: 50px;
+    }
+    .contato button{
+        background-color: black;
+        width: 132px;
+        height: 54px;
+    }
+    .contato a{
+        font-size: 29px;
+        text-decoration: none;
+        color: white;
+    }
+    /* Quem Somos */
+    .quemsomos{
+        margin-top: 50px;
+    }
+    .quemsomos button{
+        background-color: black;
+        width: 190px;
+        height: 54px;
+    }
+    .quemsomos a{
+        font-size: 29px;
+        text-decoration: none;
+        color: white;
+    }
+
+
+/* section */
+.section{
+    display: grid;
+    grid-template-rows: 100px 100px 100px 100px 100px 100px;
+    text-align: center;
+}
+.cadastre-se{
+    font-size: 36px;
+}
+.nomecompleto{
+    font-size: 36px;
+    margin-right: 250px;
+    margin-top: 80px;
+}
+.email{
+    font-size: 36px;
+    margin-right: 340px;
+    margin-top: 80px;
+}
+.endereco{
+    font-size: 36px;
+    margin-right: 270px;
+    margin-top: 80px;
+}
+.numero{
+    font-size: 36px;
+    margin-right: 100px;
+    margin-top: 80px;
+}
+.nascimento{
+    font-size: 36px;
+    margin-right: 130px;
+    margin-top: 80px;
+}
